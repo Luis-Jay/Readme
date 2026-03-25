@@ -151,8 +151,8 @@ Looking forward to building something great for Fitness 8.
 
 **Luis**
 Web Developer
-📧 [your email]
-📱 [your contact number]
+📧 luisjaygalvez@gmail.com
+📱 09359093723
 
 ---
 
