@@ -37,13 +37,11 @@ The following pages and features are included in this quotation:
 |---|------|-------------|
 | 1 | **Homepage** | Hero section, brand introduction, key services overview, and call-to-action |
 | 2 | **About Page** | Fitness 8 story, mission, values, and what sets you apart |
-| 3 | **Membership** | Membership tiers, pricing plans, and benefits | 
+| 3 | **Membership** | Membership tiers, pricing plans, and benefits |
 | 4 | **Classes** | Class schedule or overview, types of training offered |
 | 5 | **Trainers** | Trainer profiles with photos and specializations |
 | 6 | **Branch Locations** | Map integration and details for each Fitness 8 branch |
 | 7 | **Contact Page** | Contact form, email, phone, social media links |
-
-the Membership can be removed or modify only for benefits, depending on the scope.
 
 ### Features & Technical Work
 - Full customization of the template to match Fitness 8 branding (colors, fonts, logo, imagery)
@@ -79,13 +77,13 @@ the Membership can be removed or modify only for benefits, depending on the scop
 
 | Item | Cost |
 |------|------|
-| Template customization & branding | ₱15,000 |
-| Page setup & content integration (7 pages) | ₱18,000 |
-| Responsive design & mobile optimization | ₱10,000 |
-| Basic SEO setup | ₱8,000 |
-| Contact form & map integration | ₱5,000 |
-| Testing, QA & final revisions | ₱4,000 |
-| **Total** | **₱60,000** |
+| Template customization & branding | ₱22,000 |
+| Page setup & content integration (7 pages) | ₱27,000 |
+| Responsive design & mobile optimization | ₱15,000 |
+| Basic SEO setup | ₱12,000 |
+| Contact form & map integration | ₱8,000 |
+| Testing, QA & final revisions | ₱6,000 |
+| **Total** | **₱90,000** |
 
 > **Note:** This quotation is fully negotiable. If you have a specific budget in mind or would like to adjust the scope, I am happy to find an arrangement that works for both parties. Just let me know and we can work something out.
 
@@ -95,8 +93,8 @@ the Membership can be removed or modify only for benefits, depending on the scop
 
 | Milestone | Amount Due |
 |-----------|-----------|
-| Upon project confirmation (downpayment) | 20% |
-| Upon final delivery & launch | 80% |
+| Upon project confirmation (downpayment) | 25% |
+| Upon final delivery & launch | 75% |
 
 - Payment may be made via bank transfer, GCash, or other agreed method.
 - Work begins upon receipt of the initial downpayment.
