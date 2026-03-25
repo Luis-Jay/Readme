@@ -37,11 +37,13 @@ The following pages and features are included in this quotation:
 |---|------|-------------|
 | 1 | **Homepage** | Hero section, brand introduction, key services overview, and call-to-action |
 | 2 | **About Page** | Fitness 8 story, mission, values, and what sets you apart |
-| 3 | **Membership** | Membership tiers, pricing plans, and benefits |
+| 3 | **Membership** | Membership tiers, pricing plans, and benefits | 
 | 4 | **Classes** | Class schedule or overview, types of training offered |
 | 5 | **Trainers** | Trainer profiles with photos and specializations |
 | 6 | **Branch Locations** | Map integration and details for each Fitness 8 branch |
 | 7 | **Contact Page** | Contact form, email, phone, social media links |
+
+the Membership can be removed or modify only for benefits, depending on the scope.
 
 ### Features & Technical Work
 - Full customization of the template to match Fitness 8 branding (colors, fonts, logo, imagery)
