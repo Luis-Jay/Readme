@@ -77,13 +77,13 @@ The following pages and features are included in this quotation:
 
 | Item | Cost |
 |------|------|
-| Template customization & branding | ₱22,000 |
-| Page setup & content integration (7 pages) | ₱27,000 |
-| Responsive design & mobile optimization | ₱15,000 |
-| Basic SEO setup | ₱12,000 |
-| Contact form & map integration | ₱8,000 |
-| Testing, QA & final revisions | ₱6,000 |
-| **Total** | **₱90,000** |
+| Template customization & branding | ₱13,000 |
+| Page setup & content integration (7 pages) | ₱15,000 |
+| Responsive design & mobile optimization | ₱8,000 |
+| Basic SEO setup | ₱7,000 |
+| Contact form & map integration | ₱4,000 |
+| Testing, QA & final revisions | ₱3,000 |
+| **Total** | **₱50,000** |
 
 > **Note:** This quotation is fully negotiable. If you have a specific budget in mind or would like to adjust the scope, I am happy to find an arrangement that works for both parties. Just let me know and we can work something out.
 
